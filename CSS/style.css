@@ -1,0 +1,37 @@
+body{
+    background-color: rgb(0, 200, 200);
+}
+
+img {
+    float: left;
+    margin-right: 10px;
+    width: 20%;
+    height: auto;
+}
+
+.linha{
+    border: 1px solid black;
+    border-collapse: collapse;
+    text-align: center;
+    font-size: 20px;
+}
+
+h1{
+    text-align: center;
+}
+
+h3{
+    text-align: center;
+    font-size: 24px;
+}
+
+div{
+    font-size: 25px;
+}
+
+button{
+    width: 100px;
+    height: 30px;
+    font-size: 15px;
+    background-color: greenyellow;
+}
