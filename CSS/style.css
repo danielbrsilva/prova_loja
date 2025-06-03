@@ -37,3 +37,7 @@ button{
     font-size: 15px;
     background-color: greenyellow;
 }
+
+button:hover {
+    background-color: red;
+}
